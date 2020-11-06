@@ -8,9 +8,8 @@ A simple application to help organize thoughts and things to do.
 https://notes-and-thoughts.herokuapp.com/
 
 
-![picture](public/assets/images/noteTakerIndex.png)
+![picture]()
 
-Links : [Heroku App Online](https://afternoon-island-56967.herokuapp.com/), [Repository](https://github.com/CesarAugustoMartinez/Note_Taker)
 
 ---
 

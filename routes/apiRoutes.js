@@ -1,11 +1,12 @@
 const path = require("path");
+const fs = require("fs");
+let data = require("../db/db.json")
 
 module.exports = function(app) {
 
-    
     //GET Requests
     app.get("/api/notes", function(req,res){
-        res.json(JSON.parse(data));
+        res.json(data);
     });
     
     //POST Requests

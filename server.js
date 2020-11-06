@@ -20,12 +20,12 @@ app.use(express.static(path.join(__dirname,"./public")));
 
 //sends user to notes page
 app.get("/notes", function(req, res) {
-    res.sendFile(path.join(__dirname, "./public/notes.html"));
+    res.sendFile(path.join(__dirname, "../public/notes.html"));
 });
 
 //sends user to home page
 app.get("*", function(req, res) {
-    res.sendFile(path.join(__dirname, "./public/index.html"));
+    res.sendFile(path.join(__dirname, "../public/index.html"));
 });
 
 //GET Requests

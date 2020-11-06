@@ -8,7 +8,7 @@ A simple application to help organize thoughts and things to do.
 https://notes-and-thoughts.herokuapp.com/
 
 
-![picture]()
+![Home Page](./public/assets/images/natHome.png)
 
 
 ---
@@ -55,7 +55,17 @@ This page is hosted on Heroku's cloud server, through github. Visit https://note
  
 ## Screenshots
 
+###### Home Page
 
+![Home Page](./public/assets/images/natHome.png)
+
+###### Note Taking Page
+
+![Home Page](./public/assets/images/natNotes.png)
+
+###### New Note
+
+![Home Page](./public/assets/images/natNewNote.png)
 
 
 [Back To The Top](#Note_Taker)

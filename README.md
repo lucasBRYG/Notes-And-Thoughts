@@ -68,7 +68,7 @@ This page is hosted on Heroku's cloud server, through github. Visit https://note
 ![Home Page](./public/assets/images/natNewNote.png)
 
 
-[Back To The Top](#Note_Taker)
+
 
 ---
 
@@ -76,6 +76,7 @@ This page is hosted on Heroku's cloud server, through github. Visit https://note
 
 ## Author
 
-- Linkedin --
-- GitHub --
+- Linkedin -- https://www.linkedin.com/in/lucas-bryg-codes/
+- GitHub -- https://github.com/lucasBRYG/
+
 [Back To The Top](#Note_Taker)
